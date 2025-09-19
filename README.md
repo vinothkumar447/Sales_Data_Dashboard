@@ -54,7 +54,7 @@ If any column is missing, the app will show a helpful message.
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/vinothkumar447/Sales_Data_Dashboard>
    cd sales-dashboard
    ```
 2. Create and activate a virtual environment:
@@ -144,10 +144,8 @@ Open the link shown in the terminal (usually `http://localhost:8501`).
 
 This project is developed and maintained by **Vinothkumar** as part of a Data Science assignment.
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/vinothkumar20/)
+- GitHub:(https://github.com/vinothkumar447)
+- LinkedIn:(https://linkedin.com/in/vinothkumar20/)
 
 ---
-
-🚀 With this README, you can directly share your GitHub repo + deployed app link with HR and showcase your work professionally.
 
